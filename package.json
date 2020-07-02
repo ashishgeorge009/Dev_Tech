@@ -1,0 +1,28 @@
+{
+  "name": "Dev_Tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "chromedriver": "^83.0.0",
+    "puppeteer": "^4.0.1",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishgeorge009/Dev_Tech.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashishgeorge009/Dev_Tech/issues"
+  },
+  "homepage": "https://github.com/ashishgeorge009/Dev_Tech#readme"
+}
